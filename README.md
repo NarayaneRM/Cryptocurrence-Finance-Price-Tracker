@@ -2,8 +2,6 @@
 
 Can't be bothered with setting up Docker to test it out? You are in luck. Here you will find an API Cryptocurrency tracker inside the repository infrastrucutre so you can try it out. This will allow you to quickly test the stack to see if it meets your needs. 
 
-[![Try in PWD](https://github.com/play-with-docker/stacks/raw/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/vegasbrianc/crypto-currency-tracker/master/pwd-stack.yml) 
-
 # Pre-requisites
 
 Before we get started installing the Prometheus stack. Ensure you install the latest version of docker and [docker swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/) on your Docker host machine. Docker Swarm is installed automatically when using Docker for Mac or Docker for Windows.
